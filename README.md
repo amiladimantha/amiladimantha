@@ -46,7 +46,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=amiladimantha&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-profile-trophy.vercel.app/?username=amiladimantha&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
   <br></br>
   <img src="https://streak-stats.demolab.com?user=amiladimantha&theme=dark"/>
 </td>
