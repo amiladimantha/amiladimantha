@@ -48,7 +48,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=amiladimantha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amiladimantha&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="[https://github-readme-streak-stats.herokuapp.com/?user=amiladimantha&theme=dark&hide_border=false](https://camo.githubusercontent.com/43b4098fcc7e2071b0aea74d14d4e9fd59a3d06d98f435eaf18ae9fad563dca6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d313031306e697368616e74267468656d653d6461726b26686964655f626f726465723d66616c7365)" /> 
 </td>
 
 <td width="50%" align="center">
