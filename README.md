@@ -48,7 +48,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=amiladimantha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img src="https://streak-stats.demolab.com?user=amiladimantha"/>
+  <img src="https://streak-stats.demolab.com?user=amiladimantha&theme=dark"/>
 </td>
 
 <td width="50%" align="center">
