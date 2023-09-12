@@ -48,7 +48,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=amiladimantha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  align="center" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amiladimantha&theme=dark&hide_border=false" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiladimantha&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </td>
 
 <td width="50%" align="center">
