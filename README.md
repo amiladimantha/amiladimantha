@@ -26,11 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React and Angular**
+- 🔭 I’m currently working on **React/ Angular/ .NET**
 
-- 🌱 I’m currently learning **Python**
-
-- ☁️ I've keen interest in Frontend development. So,I'm learning **React and Angular**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **HTML, CSS, react, UI/UX Design, SQL**
 
