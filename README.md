@@ -27,13 +27,9 @@
 
 
 <!--Intro start-->
-- 🏢 Software Engineer at **Hitachi Digital Payment Solutions**
+- 🔭 I'm currently working on **Enterprise Applications using .NET, Angular & React**
 
-- 🔭 I'm currently working on **Enterprise Fintech Applications using .NET, Angular & React**
-
-- 🧑‍💼 I also serve as a **Scrum Master**, driving Agile delivery for high-performing teams
-
-- 🏆 **2+ Years** of experience | **10+ Projects** delivered | **Fintech Domain** focus
+- 🏆 **2+ Years** of experience | **10+ Projects** delivered
 
 - 💬 Ask me about **C#, .NET, Angular, React, TypeScript, SQL Server, Docker, Kafka**
 
