@@ -9,6 +9,8 @@
   </ul>
 </div>
 
+<h3 align="center">Full-Stack Engineer</h3>
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
@@ -49,14 +51,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=amiladimantha&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amiladimantha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img src="https://streak-stats.demolab.com?user=amiladimantha&theme=dark"/>
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amiladimantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amiladimantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -66,7 +68,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=amiladimantha&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy-two.vercel.app/?username=amiladimantha&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (end) -->
