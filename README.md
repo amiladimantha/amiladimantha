@@ -9,8 +9,6 @@
   </ul>
 </div>
 
-<h3 align="center">Full-Stack Engineer & Scrum Master @ Hitachi Digital Payment Solutions</h3>
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
@@ -114,59 +112,6 @@
   </a>
 </p>
 
-
-<!-- Featured Projects -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Featured Projects 🛠️</h2></summary>
-  </ul>
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-<h3 align="center">Next-Gen ATM Client</h3>
-<p align="center">Cloud-based ATM client application using .NET and Angular, serving 70,000+ devices across 5 countries with XFS3/XFS4 integration.</p>
-<p align="center"><b>C# · .NET · Angular · TypeScript · Jenkins</b></p>
-</td>
-<td width="50%">
-<h3 align="center">Fraud Management System</h3>
-<p align="center">Real-time fraud rule builder UI using React and React Flow, reducing analyst task completion time by ~25%.</p>
-<p align="center"><b>Java · React · Kafka · React Flow · Docker</b></p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">DEInclusive</h3>
-<p align="center">Full-stack job matching platform connecting diverse talents with employers. <a href="https://www.deinclusive.org/">🔗 Demo</a></p>
-<p align="center"><b>Next.js · Tailwind CSS</b></p>
-</td>
-<td width="50%">
-<h3 align="center">HR Automation Systems</h3>
-<p align="center">Vacancy & Leave Management Systems to automate HR workflows. <a href="https://github.com/amiladimantha/Vacancy-Management-System">🔗 VMS</a> · <a href="https://github.com/amiladimantha/Leave-Managment-System">🔗 LMS</a></p>
-<p align="center"><b>ASP.NET · React · MS SQL · Azure DevOps</b></p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">GPT 5.0 Landing Page</h3>
-<p align="center">A modern, responsive landing page concept for GPT 5.0 with animated sections. <a href="https://github.com/amiladimantha/GPT_5.0">🔗 GitHub</a> · <a href="https://gpt-5-0-rosy.vercel.app/">🔗 Demo</a></p>
-<p align="center"><b>React · JavaScript</b></p>
-</td>
-<td width="50%">
-<h3 align="center">Delectable Dining</h3>
-<p align="center">Restaurant website with elegant design, menu showcase, and reservation features. <a href="https://github.com/amiladimantha/DelectableDining">🔗 GitHub</a> · <a href="https://delectable-dining.vercel.app/">🔗 Demo</a></p>
-<p align="center"><b>React · JavaScript</b></p>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://portfolio-k4sw.vercel.app/#projects">
-    <img src="https://img.shields.io/badge/View_All_Projects-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="View All Projects"/>
-  </a>
-</p>
 
 
 <!-- Connect with me -->
