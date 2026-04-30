@@ -27,9 +27,9 @@
 
 
 <!--Intro start-->
-- 🔭 I'm currently working on **Enterprise Applications using .NET, Angular & React**
+- 🔭 I'm currently working on **Next-Gen ATM Client App & Real-Time Fraud Management System (.NET, Angular, React)**
 
-- 🏆 **2+ Years** of experience | **10+ Projects** delivered
+- 🏆 **2.5+ Years** of experience | **10+ Projects** delivered
 
 - 💬 Ask me about **C#, .NET, Angular, React, TypeScript, SQL Server, Docker, Kafka**
 
@@ -101,12 +101,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgres,kafka&perline=14" />
   </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Apache Flink" />
+  </a>
 </p>
 
 <h4 align="center">DevOps & Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,jenkins,azure,figma,vscode,visualstudio,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,jenkins,azure,figma,vscode,visualstudio,postman,jira&perline=14" />
   </a>
 </p>
 
