@@ -89,10 +89,9 @@
 
 <h4 align="center">AI Tools</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenAI-Dark.svg" width="48" height="48" alt="chatgpt" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gemini-Dark.svg" width="48" height="48" alt="gemini" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubCopilot-Dark.svg" width="48" height="48" alt="copilot" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Claude-Dark.svg" width="48" height="48" alt="claude" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=openai,gemini,copilot,claude&perline=14" />
+  </a>
 </p>
 
 <!-- Connect with me -->
