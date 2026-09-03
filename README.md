@@ -99,11 +99,11 @@
 <h4 align="center">Backend & Databases</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgres,oracle,kafka&perline=14" />
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgres,kafka&perline=14" />
   </a>
   <br/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Apache Flink" />
-  </a>
 </p>
 
 <h4 align="center">DevOps & Tools</h4>
