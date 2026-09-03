@@ -54,7 +54,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amiladimantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-stats-extended.vercel.app/api/top-langs/?username=amiladimantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
