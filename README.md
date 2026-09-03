@@ -59,11 +59,11 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 🚀</h2></summary>
   </ul>
 </div>
 
-<!--Vibrant Tech Stack Icons-->
+<!-- Vibrant Tech Stack Icons -->
 <h4 align="center">Languages</h4>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,java,py,cpp,ts,js&perline=14" /></a>
@@ -77,10 +77,9 @@
 <h4 align="center">Backend & Databases</h4>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgres,kafka&perline=14" /></a>
-  <!-- Custom Attention Grabbing Icons for Oracle & Flink -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" width="48" alt="Oracle" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheflink/apacheflink-original.svg" height="48" width="48" alt="Apache Flink" />
+  <!-- Manually added Oracle and Flink with matching background style -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="oracle" style="background-color: #1a1a1a; padding: 4px; border-radius: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" width="48" height="48" alt="flink" style="background-color: #1a1a1a; padding: 4px; border-radius: 10px;" />
 </p>
 
 <h4 align="center">DevOps & Tools</h4>
@@ -90,10 +89,10 @@
 
 <h4 align="center">AI Tools</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-GitHub_Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="35" />
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="chatgpt" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" width="40" height="40" alt="gemini" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40" alt="copilot" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="40" height="40" alt="claude" />
 </p>
 
 <!-- Connect with me -->
