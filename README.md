@@ -89,10 +89,10 @@
 
 <h4 align="center">AI Tools</h4>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="chatgpt" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" width="40" height="40" alt="gemini" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40" alt="copilot" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="40" height="40" alt="claude" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenAI-Dark.svg" width="48" height="48" alt="chatgpt" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gemini-Dark.svg" width="48" height="48" alt="gemini" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubCopilot-Dark.svg" width="48" height="48" alt="copilot" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Claude-Dark.svg" width="48" height="48" alt="claude" />
 </p>
 
 <!-- Connect with me -->
